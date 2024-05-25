@@ -1,5 +1,7 @@
 # node.js crash demo
 
+A simple basic http server.
+
 ### API reference:
 
 1. path
